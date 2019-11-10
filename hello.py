@@ -1,4 +1,3 @@
-a=2
-b=5
-c=a+b
-print(c)
+import django
+print(django.get_version())
+print("prasis")
